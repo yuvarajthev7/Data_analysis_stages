@@ -1,0 +1,9 @@
+TicketID,CustomerID,TicketDate,IssueCategory,ResolutionTime
+T1001,1,2024-01-08,Technical,2.5
+T1002,3,2024-01-22,Billing,1.0
+T1003,2,2024-02-01,Account,0.5
+T1004,4,2024-02-15,Technical,3.0
+T1005,1,2024-02-25,Performance,4.0
+T1006,5,2024-03-01,Billing,1.5
+T1007,2,2024-03-10,Technical,2.0
+T1008,3,2024-03-15,Account,0.75
